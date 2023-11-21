@@ -2,7 +2,7 @@
 
 ![Hero Page Image](https://github.com/anav5704/Procyon/blob/main/docs/hero.png)
 
-This is a simple and lightweight website that showcases our works and clients. There are also nice animations on scroll and parallax scrolling effects on each page.
+As you might have guessed from the heading, we, ![Procyon](https://procyon.website/) are a Fiji-based web development company. This is a simple and lightweight website that showcases our works and clients. There are also nice animations on scroll and parallax scrolling effects on each page.
 
 ## Technologies Used
 - Astro JS
