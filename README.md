@@ -9,6 +9,10 @@ This is a simple business website made for [Procyon](https://procyon.website/), 
 - TailwindCSS  
 - GSAP
 
+## Getting Started
+
+First fork and clone the repo. Then, run ```npm install``` to download all the dependencies. Once that is done, run ```npm start``` to view it on localhost.
+
 ## Learning Resources
 
 - [Astro crash course in 20 mins](https://www.youtube.com/watch?v=zrPVTf761OI)
