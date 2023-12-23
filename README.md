@@ -1,10 +1,16 @@
-# Procyon Fiji - We Make Websites ✨
+# Procyon Fiji ✨
 
-![Hero Page Image](https://github.com/anav5704/Procyon/blob/main/docs/hero.png)
+![Hero Page Image](https://github.com/anav5704/Procyon/blob/main/docs/procyon.png)
 
-As you might have guessed from the heading, we, [Procyon](https://procyon.website/) are a Fiji-based web development company. This is a simple and lightweight website that showcases our works and clients. There are also nice animations on scroll and parallax scrolling effects on each page.
+This is a simple business website made for [Procyon](https://procyon.website/), a Fiji-based web development company. It is a minimal and lightweight website that showcases works and clients. There are also nice animations on scroll and parallax scrolling effects on each page.
 
 ## Technologies Used
 - Astro JS
-- TailwindCSS + Hero Icons 
-- GreenSock Animation Platform
+- TailwindCSS  
+- GSAP
+
+## Learning Resources
+
+- [Astro crash course in 20 mins](https://www.youtube.com/watch?v=zrPVTf761OI)
+- [Create website intro with GSAP](https://www.youtube.com/watch?v=UjuLDdnp_VM)
+- [GSAP docs](https://gsap.com/)    
